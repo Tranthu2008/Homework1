@@ -1,0 +1,5 @@
+n=int(input())
+if 2025-n>=18:
+    print("Du tuoi")
+else:
+    print("Khong du tuoi")
