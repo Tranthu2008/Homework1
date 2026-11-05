@@ -1,0 +1,6 @@
+n=int(input())
+chu=["khong","mot","hai","ba","bon","nam","sau","bay","tam","chin"]
+if 0<=n<=9:
+    print(chu[n])
+else:
+    print("khong hop le")
