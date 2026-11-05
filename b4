@@ -1,5 +1,1 @@
-nam=int(input())
-if 2026-n>=18:
-    print("Du")
-else:
-    print("Chua du")
+ua du")
