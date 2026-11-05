@@ -1,0 +1,7 @@
+n=float(input())
+if n>=8:
+    print("Gioi")
+elif n>=6.5 and n<8:
+    print("Kha")
+else:
+    print("yeu")
